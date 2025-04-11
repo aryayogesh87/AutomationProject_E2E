@@ -46,6 +46,7 @@ public class Base {
 	    WebDriverManager.chromedriver().setup();
 	    ChromeOptions options = new ChromeOptions();
 	    driver = new ChromeDriver(options);
+	    System.out.println("check updated status of file");
 	}
 	
 	@BeforeMethod
@@ -59,7 +60,7 @@ public class Base {
 	        driver.quit();
 	    }
 	}
-
+	
 	@AfterSuite
 	public void endReport() {
 		extent.flush();
