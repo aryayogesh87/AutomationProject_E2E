@@ -1,0 +1,3 @@
+# Created at 2025-04-08T12:44:59.799
+Cannot invoke "com.aventstack.extentreports.ExtentTest.fail(String)" because "com.orangehrm.automation.tests.Base.test" is null
+
