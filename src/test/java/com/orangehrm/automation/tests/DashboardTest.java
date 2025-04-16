@@ -1,7 +1,11 @@
 package com.orangehrm.automation.tests;
 
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
+import com.automationProjectE2E.base.Base;
+import com.orangehrm.automation.listeners.CustomListener;
 
+@Listeners(CustomListener.class)
 public class DashboardTest extends Base {
 
     @Test(groups = {"Regression", "Sanity"})

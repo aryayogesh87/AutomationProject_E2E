@@ -2,6 +2,8 @@ package com.orangehrm.automation.tests;
 
 import org.testng.annotations.Test;
 
+import com.automationProjectE2E.base.Base;
+
 public class DoTest extends Base {
 
     @Test(groups = "Smoke")

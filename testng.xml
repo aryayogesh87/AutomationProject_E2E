@@ -9,6 +9,7 @@
 	<test name="Test">
 		<classes>
 			<class name="com.orangehrm.automation.tests.LoginTest" />
+			<class name="AmazonTestFlows.Navigation_One" />
 		</classes>
 	</test>
 
