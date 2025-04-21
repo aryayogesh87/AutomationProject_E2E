@@ -3,7 +3,8 @@ package com.orangehrm.automation.tests;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Listeners;
-import com.automationProjectE2E.base.Base;
+
+import com.orangehrm.automation.base.Base;
 import com.orangehrm.automation.listeners.CustomListener;
 
 @Listeners(CustomListener.class)

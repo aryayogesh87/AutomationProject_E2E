@@ -1,4 +1,4 @@
-package com.automationProjectE2E.base;
+package com.orangehrm.automation.base;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
