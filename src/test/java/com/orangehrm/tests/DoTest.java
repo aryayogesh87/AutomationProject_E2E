@@ -1,8 +1,8 @@
-package com.orangehrm.automation.tests;
+package com.orangehrm.tests;
 
 import org.testng.annotations.Test;
 
-import com.orangehrm.automation.base.Base;
+import com.base.Base;
 
 public class DoTest extends Base {
 

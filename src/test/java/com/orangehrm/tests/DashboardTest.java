@@ -1,10 +1,10 @@
-package com.orangehrm.automation.tests;
+package com.orangehrm.tests;
 
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
-import com.orangehrm.automation.base.Base;
-import com.orangehrm.automation.listeners.CustomListener;
+import com.base.Base;
+import com.listeners.CustomListener;
 
 @Listeners(CustomListener.class)
 public class DashboardTest extends Base {

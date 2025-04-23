@@ -1,4 +1,4 @@
-package com.orangehrm.automation.reports;
+package com.orangehrm.reports;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;

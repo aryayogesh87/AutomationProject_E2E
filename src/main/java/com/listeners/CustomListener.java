@@ -1,4 +1,4 @@
-package com.orangehrm.automation.listeners;
+package com.listeners;
 
 import org.testng.ITestResult;
 import org.testng.TestListenerAdapter;

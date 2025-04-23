@@ -1,4 +1,4 @@
-package com.orangehrm.automation.tests;
+package com.randomprograms.tests;
 
 import java.util.List;
 

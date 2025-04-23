@@ -1,4 +1,4 @@
-package com.orangehrm.automation.utils;
+package com.utils;
 
 import org.testng.annotations.DataProvider;
 
